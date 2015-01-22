@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Base Converter 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="N1">1</string>
+    <string name="N2">2</string>
+    <string name="N3">3</string>
+    <string name="N4">4</string>
+    <string name="N5">5</string>
+    <string name="N6">6</string>
+    <string name="N7">7</string>
+    <string name="N8">8</string>
+    <string name="N9">9</string>
+    <string name="N0">0</string>
+    <string name="HEX">HEX</string>
+    <string name="DEC">DEC</string>
+    <string name = "OCT">OCT</string>
+    <string name="TypeExpression"> Type Expression</string>
+    <string name="CLEAR">CLE</string>
+    
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/geraldblake/Google Drive/Mobile Apps/BaseConverter3/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/geraldblake/Google Drive/Mobile Apps/BaseConverter3/build-types/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/geraldblake/Google%20Drive/Mobile%20Apps/BaseConverter3/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/geraldblake/Google%20Drive/Mobile%20Apps/BaseConverter3/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="CLEAR">CLE</string>
+    <string name="D">D</string>
+    <string name="DEC">DEC</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="HEX">HEX</string>
+    <string name="N0">0</string>
+    <string name="N1">1</string>
+    <string name="N2">2</string>
+    <string name="N3">3</string>
+    <string name="N4">4</string>
+    <string name="N5">5</string>
+    <string name="N6">6</string>
+    <string name="N7">7</string>
+    <string name="N8">8</string>
+    <string name="N9">9</string>
+    <string name="OCT">OCT</string>
+    <string name="TypeExpression"> Type Expression</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Base Converter 3</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/geraldblake/Google%20Drive/Mobile%20Apps/BaseConverter3/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
